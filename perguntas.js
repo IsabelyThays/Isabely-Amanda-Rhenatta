@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Fato Curioso', 
     'Uma curiosidade sobre cidade/ponto turístico/país cisitado!', 
-    'Informar através de um breve texto uma curiosidade.'
+    'Florença é conhecida como o berço do Renascimento.À artes muito famosas e artitas como  Leonardo da Vinci, Michelangelo, Botticelli e Donatello'
 )
 
 criaCartao(
