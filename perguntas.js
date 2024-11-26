@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
+    'Estátua de Davi: Escultura renascentista de Michelangelo, representando o herói bíblico Davi, famosa pela perfeição anatômica e significados culturais.Galleria degli Uffizi: Museu de arte mundialmente conhecido, abrigando pinturas renascentistas de mestres como Botticelli e Michelangelo. Duomo de Florença: Catedral Santa Maria del Fiore, famosa por sua imponente cúpula de Brunelleschi, símbolo arquitetônico da cidade.'
 )
 
 criaCartao(
