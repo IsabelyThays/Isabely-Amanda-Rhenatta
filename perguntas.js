@@ -24,12 +24,12 @@ criaCartao(
 
 criaCartao(
     'Prato Típico', 
-    'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+    'Conhece o "cantuccini"?', 
+    'O Cantuccini é um biscoito tradicional da Toscana, feito com amêndoas e essência de laranja. Escolhemos este prato porque é um clássico da região, servido especialmente nos cafés da tarde, sendo uma tradição para receber visitas com elegância e sabor.'
 )
 
 criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
+    'A viagem para a Toscana foi inesquecível, com paisagens deslumbrantes, arte renascentista e culinária incrível. Cada lugar visitado teve um charme único, especialmente Florença. Se pudesse fazer algo diferente, dedicaria mais tempo aos lugares mais afastados dos pontos turístico, onde não a muitas pessoas e geralmente são lugares mais tranquilos.'
 )
