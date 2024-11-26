@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Custo da Viagem', 
     'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
+    'O euro esta atualmente custanto 6,09 reais. Escolhemos fazer nossa viagem de forma independente com um custo de R$3.590 por pessoa para 5 noites.'
 )
 
 criaCartao(
