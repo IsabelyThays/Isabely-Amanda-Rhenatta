@@ -31,4 +31,5 @@ criaCartao(
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
     'https://i.postimg.cc/q7PbVx9m/Whats-App-Image-2024-11-26-at-20-17-00.jpg'
+    'https://i.postimg.cc/8PfbD6m9/Whats-App-Image-2024-11-26-at-20-17-00-1.jpg'
 );
