@@ -30,5 +30,5 @@ criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
-    'blob:https://web.whatsapp.com/b4d34cad-e3a3-4534-8ea3-e884cf04c937'
+    'https://i.postimg.cc/q7PbVx9m/Whats-App-Image-2024-11-26-at-20-17-00.jpg'
 );
